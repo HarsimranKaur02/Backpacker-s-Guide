@@ -1,5 +1,7 @@
 # Backpacker's-Guide
-Travel Guide Desktop Application
+
+# Travel Guide Desktop Application:
+
 It is a desktop based Travel Guide Application. The user selects his destination city and all the details like how to reach, accommodations, restaurants,tourist spots etc. are displayed. The details are fetched from the database and displayed to the user.The options are displayed according to the selected price range.
 
 **Home Page:**
